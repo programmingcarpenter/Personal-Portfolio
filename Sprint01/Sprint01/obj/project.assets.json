@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iPain\\OneDrive\\Desktop\\Sprint01\\Sprint01\\Sprint01.csproj",
+      "projectUniqueName": "C:\\Users\\iPain\\OneDrive\\Documents\\GitHub\\CSE310_Portfolio\\Sprint01\\Sprint01\\Sprint01.csproj",
       "projectName": "Sprint01",
-      "projectPath": "C:\\Users\\iPain\\OneDrive\\Desktop\\Sprint01\\Sprint01\\Sprint01.csproj",
+      "projectPath": "C:\\Users\\iPain\\OneDrive\\Documents\\GitHub\\CSE310_Portfolio\\Sprint01\\Sprint01\\Sprint01.csproj",
       "packagesPath": "C:\\Users\\iPain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iPain\\OneDrive\\Desktop\\Sprint01\\Sprint01\\obj\\",
+      "outputPath": "C:\\Users\\iPain\\OneDrive\\Documents\\GitHub\\CSE310_Portfolio\\Sprint01\\Sprint01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
